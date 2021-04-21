@@ -1,0 +1,31 @@
+body{
+    background-image: url("./outraIMG.jpeg");
+    display: table;
+    width: 100%;
+    height: 100%;
+    padding: 100px 0;
+    text-align: center;
+    
+
+}
+
+.text-center {
+    color: greenyellow;
+}
+
+.card-header {
+    background-color: grey;
+    box-shadow: inset 0 0 1em black, 0 0 1em greenyellow;
+}
+
+.card-body {
+    background-color: rgb(161, 161, 161);
+    box-shadow: inset 0 0 1em black, 0 0 1em black;
+}
+
+.btn {
+    background-color: black; 
+    color: yellowgreen; 
+    border: 2px solid yellowgreen;
+    border-radius: 12px;
+}
